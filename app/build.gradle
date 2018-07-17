@@ -1,9 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'testing'
+            keyPassword 'testing'
+            storePassword 'testing'
+        }
+    }
     compileSdkVersion 25
     buildToolsVersion '25.0.0'
-
     defaultConfig {
         applicationId "com.songlee.htapp"
         minSdkVersion 16
@@ -15,6 +21,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
         }
     }
 }

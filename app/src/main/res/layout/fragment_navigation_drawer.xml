@@ -1,0 +1,14 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/textview_content_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:choiceMode="singleChoice"
+    android:background="@drawable/button_dark_red_background_top_corner"
+    android:dividerHeight="0dp"
+    tools:context=".NavigationDrawerFragment"
+
+
+    />
+
+

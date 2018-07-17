@@ -1,0 +1,119 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="navigation_width">160dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_small_margin">5dp</dimen>
+    <dimen name="activity_horizontal_medium_margin">10dp</dimen>
+    <dimen name="activity_vertical_small_margin">5dp</dimen>
+    <dimen name="activity_vertical_medium_margin">10dp</dimen>
+    <dimen name="activity_button_height_plus_vertical_margin">70dp</dimen>
+
+    <!--layout-->
+    <dimen name="cell_round_corners">12dp</dimen>
+    <dimen name="separator_vertical_margin">8dp</dimen>
+    <dimen name="separator_half_vertical_margin">4dp</dimen>
+    <dimen name="separator_double_vertical_margin">24dp</dimen>
+    <dimen name="cell_margin_top_left">16dp</dimen>
+    <dimen name="cell_margin_bottom_right">8dp</dimen>
+
+    <!--dialog-->
+    <dimen name="dialog_defualt_radius">20dp</dimen>
+    <dimen name="dialog_defualt_height">320dp</dimen>
+    <dimen name="dialog_round_corners">10dp</dimen>
+    <dimen name="dialog_vertical_margin">24dp</dimen>
+
+    <!--button-->
+    <dimen name="activity_button_margin">8dp</dimen>
+    <dimen name="activity_button_half_margin">4dp</dimen>
+    <dimen name="button_round_corners">6dp</dimen>
+    <dimen name="button_no_corners">0.1dp</dimen>
+    <dimen name="button_oval_size">36dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_vertical_gap">72dp</dimen>
+
+    <!--edittext-->
+    <dimen name="pin_edittext_paddingLeft">16dp</dimen>
+    <dimen name="edittext_round_corners">2dp</dimen>
+    <dimen name="edittext_height">35dp</dimen>
+
+    <!--textview-->
+    <dimen name="textview_vertical_margin">20dp</dimen>
+    <dimen name="textview_vertical_half_margin">10dp</dimen>
+    <dimen name="subheader_horizontal_margin">32dp</dimen>
+    <dimen name="horizontal_space">4dp</dimen>
+
+    <!--progress-bar-->
+    <dimen name="progressbar_round_corners">12dp</dimen>
+
+    <!--progress-dialog-->
+    <dimen name="progress_dialog_horizontal_padding">32dp</dimen>
+    <dimen name="progress_dialog_vertical_padding">16dp</dimen>
+    <dimen name="error_text_large">24sp</dimen>
+    <dimen name="error_text_margin_bottom">24dp</dimen>
+
+    <!--switch-->
+    <dimen name="switch_round_corner">20dp</dimen>
+    <dimen name="switch_track_height">36dp</dimen>
+    <dimen name="switch_thumb_height">36dp</dimen>
+    <dimen name="switch_storke">3dp</dimen>
+
+    <!--Radio Button-->
+    <dimen name="radio_button_outter_circle_radius">16dp</dimen>
+    <dimen name="radio_button_inner_circle_radius">9dp</dimen>
+    <dimen name="radio_button_inner_circle_padding">3dp</dimen>
+    <dimen name="radio_button_outter_circle_padding">12dp</dimen>
+    <dimen name="radio_button_storke">1dp</dimen>
+
+    <!-- transfer -->
+    <dimen name="transfer_profile_image_size">56dp</dimen>
+    <dimen name="transfer_profile_image_big_size">120dp</dimen>
+    <dimen name="transfer_icon_size">35dp</dimen>
+    <dimen name="transfer_emoji_size">90dp</dimen>
+
+    <!-- History -->
+    <dimen name="his_date_and_record_padding_left">5dp</dimen>
+    <dimen name="his_date_with">100dp</dimen>
+    <dimen name="his_details_with">100dp</dimen>
+    <dimen name="his_amount_with">90dp</dimen>
+    <dimen name="his_record_margin_Bottom">1dp</dimen>
+    <dimen name="his_record_margin_left">20dp</dimen>
+    <dimen name="his_record_height">50dp</dimen>
+
+    <dimen name="currency_text_superscript">16sp</dimen>
+
+    <!-- Top up -->
+    <dimen name="top_up_apply_bank_padding">8dp</dimen>
+    <dimen name="top_up_auto_switch_padding">15dp</dimen>
+
+    <dimen name="keyboard_height">310dp</dimen>
+
+    <!-- Messages -->
+    <dimen name="messages_image_margin">8dp</dimen>
+    <dimen name="messages_content_margin_top">18dp</dimen>
+    <dimen name="messages_button_margin_top">18dp</dimen>
+    <dimen name="messages_button_margin_left_right">8dp</dimen>
+    <dimen name="messages_content_margin_left_right">10dp</dimen>
+    <dimen name="messages_content_margin_top_bottom">5dp</dimen>
+
+    <!--parental control-->
+    <dimen name="slave_info_height">200dp</dimen>
+
+    <!-- Main Page button-->
+    <dimen name="main_button_round_corners">12dp</dimen>
+
+    <!--Split Bill-->
+    <dimen name="pay_status_indicator_size">20dp</dimen>
+    <dimen name="debtor_amount_edittext_width">50dp</dimen>
+
+    <dimen name="bill_payment_bill_account_height">50dp</dimen>
+
+    <!--Welcome Screen-->
+    <dimen name="abc_welcome_imageview_bottom_margin_material">-200dp</dimen>
+</resources>

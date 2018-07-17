@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testing</string>
+    <string name="title_section1">首頁</string>
+    <string name="title_section2">手機</string>
+    <string name="title_section3">流動電腦</string>
+    <string name="title_section4">流動音樂</string>
+    <string name="title_section5">流動音樂</string>
+    <string name="title_section6">數碼相機</string>
+    <string name="title_section7">評測</string>
+    <string name="title_section8">實用技巧</string>
+    <string name="title_section9">IOS APP</string>
+    <string name="title_section10">ANDROID APP</string>
+    <string name="title_section11">PC APP</string>
+    <string name="title_section12">MAC APP</string>
+    <string name="title_section13">WINDOWS PHONE APP</string>
+    <string name="title_section14">TECH+</string>
+    <string name="title_section15">單車科技</string>
+    <string name="title_section16">扮靚科技</string>
+    <string name="title_section17">運動科技</string>
+    <string name="title_section18">親子科技</string>
+    <string name="title_section19">航拍</string>
+    <string name="title_section20">家居無線</string>
+    <string name="title_section21">旅遊</string>
+    <string name="title_section22">遊戲情報</string>
+    <string name="title_section23">生活娛樂</string>
+    <string name="title_section24">社交網絡</string>
+    <string name="title_section25">電影 / 劇集</string>
+    <string name="title_section26">環保</string>
+    <string name="title_section27">獨立評論</string>
+    <string name="title_section28">TV</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="general_error_message">提醒訊息. 系統繁忙中，請稍後再試，謝謝! </string>
+    <string name="previous">上一頁</string>
+    <string name="next">下一頁</string>
+    <string name="refresh">刷新</string>
+    <string name="more">更多</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+
+</resources>
